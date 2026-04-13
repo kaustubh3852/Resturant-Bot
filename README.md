@@ -52,7 +52,6 @@ automation, integrated with Google Gemini AI and Telegram.
 ![Telegram Chat 1](https://github.com/user-attachments/assets/a9672d32-6607-4cfa-aa0a-1c0f9d347c59)
 ![Telegram Chat 2](https://github.com/user-attachments/assets/a37339a3-612b-431b-a010-4ce78fe7d2b9)
 ![Telegram Chat 3](https://github.com/user-attachments/assets/b72538b0-eee8-43aa-a769-31d986de05d4)
-![Telegram Chat 4](https://github.com/user-attachments/assets/91b1bcc3-51a9-4547-a55e-d9155cf42c23)
 
 
 ## 👨‍💻 Author
