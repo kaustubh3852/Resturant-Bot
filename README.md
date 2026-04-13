@@ -45,12 +45,14 @@ automation, integrated with Google Gemini AI and Telegram.
 
 ## 📸 Demo
 
-<img width="1919" height="953" alt="Screenshot 2026-04-13 154040" src="https://github.com/user-attachments/assets/5f4183ca-d4a8-447d-84b9-2630372c0802" />
-![WhatsApp Image 2026-04-13 at 5 02 05 PM](https://github.com/user-attachments/assets/a9672d32-6607-4cfa-aa0a-1c0f9d347c59)
-![WhatsApp Image 2026-04-13 at 5 02 06 PM](https://github.com/user-attachments/assets/a37339a3-612b-431b-a010-4ce78fe7d2b9)
-![WhatsApp Image 2026-04-13 at 5 02 07 PM](https://github.com/user-attachments/assets/b72538b0-eee8-43aa-a769-31d986de05d4)
-![WhatsApp Image 2026-04-13 at 5 02 07 PM](https://github.com/user-attachments/assets/91b1bcc3-51a9-4547-a55e-d9155cf42c23)
+### n8n Workflow
+![n8n Workflow](https://github.com/user-attachments/assets/5f4183ca-d4a8-447d-84b9-2630372c0802)
 
+### Telegram Chat
+![Telegram Chat 1](https://github.com/user-attachments/assets/a9672d32-6607-4cfa-aa0a-1c0f9d347c59)
+![Telegram Chat 2](https://github.com/user-attachments/assets/a37339a3-612b-431b-a010-4ce78fe7d2b9)
+![Telegram Chat 3](https://github.com/user-attachments/assets/b72538b0-eee8-43aa-a769-31d986de05d4)
+![Telegram Chat 4](https://github.com/user-attachments/assets/91b1bcc3-51a9-4547-a55e-d9155cf42c23)
 
 
 ## 👨‍💻 Author
