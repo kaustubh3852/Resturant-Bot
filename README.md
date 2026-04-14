@@ -5,7 +5,7 @@ automation, integrated with Google Gemini AI and Telegram.
 
 ## 🚀 Features
 
-- 🤖 AI-powered conversations using Google Gemini
+- 🤖 AI-powered conversations using Groq
 - 📋 Real-time menu from Google Sheets
 - 📦 Automated order management
 - ❓ FAQ support
